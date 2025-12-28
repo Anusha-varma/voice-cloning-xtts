@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# TTS / Model cache
+**/tts/
+**/.cache/
+**/checkpoints/
+
+# Output audio
+output.wav
+
+# OS files
+.DS_Store
+Thumbs.db
